@@ -1,1 +1,2 @@
-# SPP-code-team-11-
+# SPP-code-team-11
+In this project, I developed a Stock Price Predictor leveraging linear regression to forecast future stock prices. The model was trained on historical stock data, utilizing key financial indicators to predict the closing prices. I performed data preprocessing, feature selection, and model evaluation to ensure accurate predictions. The project included analyzing the model's performance using metrics like R-squared and Mean Squared Error, leading to valuable insights into the stock market trends. This project demonstrates my ability to apply machine learning techniques to real-world financial data.
